@@ -4,14 +4,13 @@
         <description><![CDATA[ipsum]]></description>
         <link>https://thegrid.ai/ipsum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 00:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 00:08:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ipsum/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Lorem Ipsum</p>]]></description>
             <link>https://thegrid.ai/ipsum/35edb18e-ff0d-4e04-bb48-63b8b5685a84/index.html</link>
             <guid isPermaLink="false">35edb18e-ff0d-4e04-bb48-63b8b5685a84</guid>
-            <pubDate>Thu, 03 Mar 2016 00:08:05 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 00:08:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
