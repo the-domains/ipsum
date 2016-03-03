@@ -1,0 +1,28 @@
+name: ipsum
+favicon: null
+layout_spectrum: 0.18371371366083622
+typography_spectrum: 0.8768841261044145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.22155663301236928
+  lightness: 0.48801894835196435
+  saturation: 0.4062346515711397
+  rhythmicContrast: 0.9846691507846117
+purpose: []
