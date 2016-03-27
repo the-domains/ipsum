@@ -4,15 +4,8 @@
         <description><![CDATA[ipsum]]></description>
         <link>https://thegrid.ai/ipsum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 15:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 15:10:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ipsum/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Published via iPhone ]]></title>
-            <description><![CDATA[<article><h1>Published via iPhone </h1><p>Integer hendrerit lacus et dui malesuada sagittis. </p></article>]]></description>
-            <link>https://thegrid.ai/ipsum/published-via-iphone/index.html</link>
-            <guid isPermaLink="false">f5e480fa-f450-408d-bb02-7e0193f528b1</guid>
-            <pubDate>Sun, 27 Mar 2016 01:59:48 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>]]></description>
