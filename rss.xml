@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ipsum]]></title>
         <description><![CDATA[ipsum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ipsum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 18:59:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 19:00:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ipsum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Funky Little Gift Shop]]></title>
+            <description><![CDATA[<article><h1>Funky Little Gift Shop</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bf18359ba0eb5595c169e4c96a66bccb66ebf4c.jpg"></article>]]></description>
+            <link>http://goati.info/index.html</link>
+            <guid isPermaLink="false">4b80a2e5-b0d2-43cd-b082-290294a697ef</guid>
+            <pubDate>Thu, 31 Mar 2016 19:00:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/56/75/9e/56759ece412e9f226bb00122cf1ab8b9.jpg">]]></description>
-            <link>undefined7aee76a1-022a-477f-ab4d-ee18ffa0c167/index.html</link>
+            <link>https://thegrid.ai/ipsum/7aee76a1-022a-477f-ab4d-ee18ffa0c167/index.html</link>
             <guid isPermaLink="false">7aee76a1-022a-477f-ab4d-ee18ffa0c167</guid>
             <pubDate>Thu, 31 Mar 2016 18:58:44 GMT</pubDate>
         </item>
