@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-31T19:11:11.917Z'
-dateModified: '2016-03-31T19:10:09.150Z'
+datePublished: '2016-03-31T19:28:15.789Z'
+dateModified: '2016-03-31T19:28:11.094Z'
 author: []
 related: []
 app_links: []
