@@ -4,7 +4,7 @@
         <description><![CDATA[lorem]]></description>
         <link>https://thegrid.ai/ipsum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 19:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 19:29:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ipsum/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[GoAti on Etsy - Shop Updates]]></title>
@@ -19,13 +19,6 @@
             <link>http://goati.info/index.html</link>
             <guid isPermaLink="false">4b80a2e5-b0d2-43cd-b082-290294a697ef</guid>
             <pubDate>Thu, 31 Mar 2016 19:05:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/56/75/9e/56759ece412e9f226bb00122cf1ab8b9.jpg">]]></description>
-            <link>https://thegrid.ai/ipsum/7aee76a1-022a-477f-ab4d-ee18ffa0c167/index.html</link>
-            <guid isPermaLink="false">7aee76a1-022a-477f-ab4d-ee18ffa0c167</guid>
-            <pubDate>Thu, 31 Mar 2016 18:58:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
