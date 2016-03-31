@@ -2,6 +2,7 @@ name: ipsum
 favicon: null
 layout_spectrum: 0.18371371366083622
 typography_spectrum: 0.8768841261044145
+title: lorem
 cta:
   domain: null
   bucket: null
