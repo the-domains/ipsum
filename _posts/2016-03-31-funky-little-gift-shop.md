@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-31T19:00:19.669Z'
-dateModified: '2016-03-31T19:00:09.066Z'
+datePublished: '2016-03-31T19:05:47.349Z'
+dateModified: '2016-03-31T19:00:23.764Z'
 author: []
 related: []
 app_links: []
 title: Funky Little Gift Shop
+sourcePath: _posts/2016-03-31-funky-little-gift-shop.md
+published: true
 authors: []
 publisher:
   name: Goati
   domain: goati.info
   url: 'http://goati.info'
   favicon: null
-sourcePath: _posts/2016-03-31-funky-little-gift-shop.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
