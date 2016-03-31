@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-31T19:05:38.137Z'
-dateModified: '2016-03-31T19:05:34.562Z'
+datePublished: '2016-03-31T19:11:11.917Z'
+dateModified: '2016-03-31T19:10:09.150Z'
 author: []
 related: []
 app_links: []
 title: Find Goati
+sourcePath: _posts/2016-03-31-find-goati.md
+published: true
 authors: []
 publisher:
   name: Goati
   domain: goati.info
   url: 'http://goati.info'
   favicon: null
-sourcePath: _posts/2016-03-31-find-goati.md
-published: true
 url: find-goati/index.html
 _context: 'http://schema.org'
 _type: MediaObject
