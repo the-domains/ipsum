@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[lorem]]></title>
+        <description><![CDATA[lorem]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Apr 2016 00:51:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://01.img.society6.com/society6/img/4et6xmRzbiJ6ShM-6rK7As4taew/w_700,h_700/tapestries/alt-large/~artwork/s6-0038/a/17555081_5578612/~~/night-light-rsb-tapestries.jpg">]]></description>
+            <link>undefined161e8d22-3ebb-4c5f-bbac-64b55bd0ca22/index.html</link>
+            <guid isPermaLink="false">161e8d22-3ebb-4c5f-bbac-64b55bd0ca22</guid>
+            <pubDate>Mon, 04 Apr 2016 00:51:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
