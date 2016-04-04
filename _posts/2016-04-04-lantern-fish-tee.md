@@ -1,18 +1,24 @@
 ---
-description: Lantern Fish Tee
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:af0e709a-0483-4f9e-901e-51c3e56ebb70'
+inLanguage: null
+starred: false
+keywords: []
+description: "GoAti on Instagram: “Ordered one of my all over print t-shirts to see the quality and wow it's awesome! Super soft and true to size there are some minor flaws that come with the sublimation process. Very happy with it @society6 #society6 #society6art #society6design #s6aops #alloverprint #tshirt #mywork #mydesign #lanternfish #artonstuff #fashion #style #artnerd #Talnts #post #saturday #update #fish #monster #s6GetSchooled @society6”"
+datePublished: '2016-04-04T00:56:20.108Z'
+dateModified: '2016-04-04T00:55:43.275Z'
 author: []
-datePublished: '2016-04-04T00:55:40.153Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'Lantern Fish Tee '
-dateModified: '2016-02-24T04:09:00.996Z'
 sourcePath: _posts/2016-04-04-lantern-fish-tee.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: lantern-fish-tee/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
