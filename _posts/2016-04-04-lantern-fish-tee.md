@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "GoAti on Instagram: “Ordered one of my all over print t-shirts to see the quality and wow it's awesome! Super soft and true to size there are some minor flaws that come with the sublimation process. Very happy with it @society6 #society6 #society6art #society6design #s6aops #alloverprint #tshirt #mywork #mydesign #lanternfish #artonstuff #fashion #style #artnerd #Talnts #post #saturday #update #fish #monster #s6GetSchooled @society6”"
-datePublished: '2016-04-04T00:58:27.104Z'
-dateModified: '2016-04-04T00:56:26.025Z'
+datePublished: '2016-04-04T00:59:21.713Z'
+dateModified: '2016-04-04T00:59:14.862Z'
 author: []
 title: 'Lantern Fish Tee '
 sourcePath: _posts/2016-04-04-lantern-fish-tee.md
