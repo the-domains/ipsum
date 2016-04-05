@@ -1,5 +1,8 @@
+name: ipsum
+favicon: null
+layout_spectrum: 0.44996
+typography_spectrum: 0.20718
 title: lorem
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 1
   brandColors:
     - '#B3B4AC'
     - '#2E2721'
     - '#017788'
     - '#FB4277'
     - '#9A1FB5'
-  rhythmicContrast: 0.25
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: ipsum
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.20718
-layout_spectrum: 0.44996
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 1
+purpose: []
