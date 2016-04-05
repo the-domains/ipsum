@@ -17,8 +17,11 @@ color:
   brandStrength: 0
   lightness: 1
   brandColors:
-    - '#4D4440'
-    - '#EBE3DD'
+    - '#B3B4AC'
+    - '#2E2721'
+    - '#017788'
+    - '#FB4277'
+    - '#9A1FB5'
   rhythmicContrast: 0.25
 cta:
   bucket: null
@@ -28,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: ipsum
 favicon: null
+name: ipsum
 opengraph:
   image: null
   type: null
